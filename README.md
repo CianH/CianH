@@ -1,4 +1,4 @@
-### Hi there 
+### Hi there 👋🏻
 OK, I just found out about profile `README.md`. Give me some time to get things in order!
 
 Yes, I work at Microsoft. No, I can't fix your Windows.
