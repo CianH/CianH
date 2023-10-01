@@ -2,8 +2,9 @@
 Yes, I work at Microsoft. No, I can't fix your Windows 🤗
 
 During my time at MSFT, I've written 
+- a lot of Swift for iOS
+- some obj-c/obj-c++ for mac&iOS
 - a lot of C# & XAML for UWP
-- quite a bit of Swift for iOS
 - some C++ for UWP & Win32
 - some C# w/ASP.NET
 - a tiny bit of React and Typescript (but that didn't last long 😅).
